@@ -1,0 +1,77 @@
+Genomic Position	REF (TN)	ALT	SNP or indel	EFF	Feature type	Gene name (Mycobrowser)	ML code	Feature length	Codon change	gene pos	ref	ale	A.acid change	Drug name	Drug Code
+5869	T	G	SNP	missense_variant	CDS	gyrB	ML0005	2037	641T>G	641	T	G	Val214Gly	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+6736	C	T	SNP	missense_variant	CDS	gyrB	ML0005	2037	1508C>T	1508	C	T	Thr503Ile	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+7589	C	T	SNP	missense_variant	CDS	gyrA	ML0006	3750	272C>T	272	C	T	Ala91Val	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+8237	C	T	SNP	missense_variant	CDS	gyrA	ML0006	3750	920C>T	920	C	T	Ser307Leu	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+8402	G	A	SNP	missense_variant	CDS	gyrA	ML0006	3750	1085G>A	1085	G	A	Gly362Glu	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+9508	G	A	SNP	missense_variant	CDS	gyrA	ML0006	3750	2191G>A	2191	G	A	Val731Ile	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+9869	T	C	SNP	missense_variant	CDS	gyrA	ML0006	3750	2552T>C	2552	T	C	Ile851Thr	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+10660	G	C	SNP	missense_variant	CDS	gyrA	ML0006	3750	3343G>C	3343	G	C	Gly1115Arg	"Ofloxacin, Sparfloxacin"	"OFX, SPX"
+86753	G	A	SNP	missense_variant	CDS	ethA	ML0065	1485	73G>A	73	G	A	Ala25Thr	Protionamide	PTO
+86867	G	A	SNP	missense_variant	CDS	ethA	ML0065	1485	187G>A	187	G	A	Asp63Asn	Protionamide	PTO
+87647	G	A	SNP	missense_variant	CDS	ethA	ML0065	1485	967G>A	967	G	A	Asp323Asn	Protionamide	PTO
+87828	C	T	SNP	missense_variant	CDS	ethA	ML0065	1485	1148C>T	1148	C	T	Pro383Leu	Protionamide	PTO
+88108	CA	C	indel	frameshift_variant	CDS	ethA	ML0065	1485	1430delA	1430	CA	C	Lys477fs	Protionamide	PTO
+296853	C	"G,T"	SNP	missense_variant	CDS	folP1	ML0224	855	"158C>G;
+158C>T"	158	C	G/T	Thr53Ser;Thr53Ile	Dapsone	DDS
+296859	C	"G,T"	SNP	missense_variant	CDS	folP1	ML0224	855	"164C>G;
+164C>T"	164	C	G/T	Pro55Arg;Pro55Leu	Dapsone	DDS
+297128	A	C	SNP	missense_variant	CDS	folP1	ML0224	855	433A>C	433	A	C	Asn145His	Dapsone	DDS
+584605	AAATCTCAAACCGTCGCAGCCAT	AGGTTGCGGTGCAGCTTC	indel	frameshift_variant	CDS	fadD9	ML0484c	3567	3321_3342delATGGCTGCGACGGTTTGAGATTinsGAAGCTGCACCGCAACC	3321-3342	AAATCTCAAACCGTCGCAGCCAT	AGGTTGCGGTGCAGCTTC	Trp1108fs	Clofazimine	CLO
+584957	G	GAT	indel	frameshift_variant	CDS	fadD9	ML0484c	3567	2989_2990dupAT	2989-2990	G	GAT	Leu998fs	Clofazimine	CLO
+585031	C	T	SNP	missense_variant	CDS	fadD9	ML0484c	3567	2917G>A	2917	G	A	Ala973Thr	Clofazimine	CLO
+585169	A	C	SNP	missense_variant	CDS	fadD9	ML0484c	3567	2779T>G	2779	T	G	Tyr927Asp	Clofazimine	CLO
+585192	G	T	SNP	missense_variant	CDS	fadD9	ML0484c	3567	2756C>A	2756	C	A	Ala919Glu	Clofazimine	CLO
+585315	C	T	SNP	stop_gained	CDS	fadD9	ML0484c	3567	2633G>A	2633	G	A	Trp878*	Clofazimine	CLO
+585562	C	T	SNP	missense_variant	CDS	fadD9	ML0484c	3567	2386G>A	2386	G	A	Gly796Ser	Clofazimine	CLO
+586168	C	T	SNP	missense_variant	CDS	fadD9	ML0484c	3567	1780G>A	1780	G	A	Ala594Thr	Clofazimine	CLO
+586264	A	AG	indel	frameshift_variant	CDS	fadD9	ML0484c	3567	1683dupC	1683	A	AG	Tyr562fs	Clofazimine	CLO
+586552	C	T	SNP	missense_variant	CDS	fadD9	ML0484c	3567	1396G>A	1396	G	A	Asp466Asn	Clofazimine	CLO
+586761	A	G	SNP	missense_variant	CDS	fadD9	ML0484c	3567	1187T>C	1187	T	C	Leu396Pro	Clofazimine	CLO
+587008	G	A	SNP	missense_variant	CDS	fadD9	ML0484c	3567	940C>T	940	C	T	Arg314Cys	Clofazimine	CLO
+587039	A	AT	indel	frameshift_variant	CDS	fadD9	ML0484c	3567	908_909insA	908_909	A	AT	Asn304fs	Clofazimine	CLO
+"5,87,494"	CACCAATCACGC	CAGACCAGTGCGG	indel	frameshift_variant	CDS	fadD9	ML0484c	3567	443_452delGCGTGATTGGinsCCGCACTGGTC	443_452	delGCGTGATTGG	insCCGCACTGGTC	Gly148fs	Clofazimine	CLO
+587505	C	G	SNP	missense_variant	CDS	fadD9	ML0484c	3567	443G>C	443	G	C	Gly148Ala	Clofazimine	CLO
+587629	G	A	SNP	stop_gained	CDS	fadD9	ML0484c	3567	319C>T	319	C	T	Gln107*	Clofazimine	CLO
+587730	CG	C	indel	frameshift_variant	CDS	fadD9	ML0484c	3567	217delC	217	CG	C	Arg73fs	Clofazimine	CLO
+1454340	G	A	SNP	missense_variant	CDS	pks4	ML1229	6357	42G>A	42	G	A	Met14Ile	-	
+1455299	C	T	SNP	missense_variant	CDS	pks4	ML1229	6357	1001C>T	1001	C	T	Thr334Ile	-	
+1457089	C	CA	indel	frameshift_variant	CDS	pks4	ML1229	6357	2792dupA	2792	C	CA	Ile932fs	-	
+1459453	C	T	SNP	stop_gained	CDS	pks4	ML1229	6357	5155C>T	5155	C	T	Gln1719*	-	
+1598388	CT	C	indel	frameshift_variant	CDS	ribD	ML1340c	807	800delA	800	CT	C	Lys267fs	para-amino salicylic acid	PAS
+1598423	C	T	SNP	missense_variant	CDS	ribD	ML1340c	807	766G>A	766	G	A	Asp256Asn	para-amino salicylic acid	PAS
+1598483	G	A	SNP	missense_variant	CDS	ribD	ML1340c	807	706C>T	706	C	T	Arg236Cys	para-amino salicylic acid	PAS
+1598523	A	C	SNP	missense_variant	CDS	ribD	ML1340c	807	666T>G	666	T	G	Cys222Trp	para-amino salicylic acid	PAS
+1598740	G	A	SNP	missense_variant	CDS	ribD	ML1340c	807	449C>T	449	C	T	Pro150Leu	para-amino salicylic acid	PAS
+1598840	G	A	SNP	stop_gained	CDS	ribD	ML1340c	807	349C>T	349	C	T	Gln117*	para-amino salicylic acid	PAS
+1598908	C	T	SNP	missense_variant	CDS	ribD	ML1340c	807	281G>A	281	G	A	Gly94Asp	para-amino salicylic acid	PAS
+1598960	C	T	SNP	missense_variant	CDS	ribD	ML1340c	807	229G>A	229	G	A	Asp77Asn	para-amino salicylic acid	PAS
+1599002	C	T	SNP	missense_variant	CDS	ribD	ML1340c	807	187G>A	187	G	A	Ala63Thr	para-amino salicylic acid	PAS
+1599004	C	T	SNP	missense_variant	CDS	ribD	ML1340c	807	185G>A	185	G	A	Gly62Asp	para-amino salicylic acid	PAS
+1599008	C	A	SNP	missense_variant	CDS	ribD	ML1340c	807	181G>T	181	G	T	Gly61Cys	para-amino salicylic acid	PAS
+1599016	C	T	SNP	missense_variant	CDS	ribD	ML1340c	807	173G>A	173	G	A	Ser58Asn	para-amino salicylic acid	PAS
+1599017	T	G	SNP	missense_variant	CDS	ribD	ML1340c	807	172A>C	172	A	C	Ser58Arg	para-amino salicylic acid	PAS
+1599022	A	G	SNP	missense_variant	CDS	ribD	ML1340c	807	167T>C	167	T	C	Ile56Thr	para-amino salicylic acid	PAS
+1599084	TTCG	T	indel	disruptive_inframe_deletion	CDS	ribD	ML1340c	807	102_104delCGA	102-104	TTCG	T	Asp34del	para-amino salicylic acid	PAS
+1599160	G	GC	indel	frameshift_variant	CDS	ribD	ML1340c	807	28dupG	28	G	GC	Ala10fs	para-amino salicylic acid	PAS
+2274434	C	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	2372G>A	2372	G	A	Arg791Gln	Rifampicin	RIF
+2274765	C	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	2041G>A	2041	G	A	Gly681Ser	Rifampicin	RIF
+2275439	G	A	SNP	missense_variant	CDS	rpoB	ML1891c	3537	1367C>T	1367	C	T	Ser456Leu	Rifampicin	RIF
+2275440	A	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	1366T>A	1366	T	A	Ser456Thr	Rifampicin	RIF
+2275455	G	"A,C"	SNP	missense_variant;missense_variant	CDS	rpoB	ML1891c	3537	1351C>T;1351C>G	1351	C	T/G	"His451Tyr;
+His451Asp"	Rifampicin	RIF
+2275463	C	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	1343G>A	1343	G	A	Gly448Asp	Rifampicin	RIF
+2275508	G	A	SNP	missense_variant	CDS	rpoB	ML1891c	3537	1298C>T	1298	C	T	Thr433Ile	Rifampicin	RIF
+2275512	C	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	1294G>A	1294	G	A	Gly432Ser	Rifampicin	RIF
+2276208	G	A	SNP	missense_variant	CDS	rpoB	ML1891c	3537	598C>T	598	C	T	His200Tyr	Rifampicin	RIF
+2276294	G	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	512C>A	512	C	A	Thr171Asn	Rifampicin	RIF
+2276294	G	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	512C>A	512	C	A	Tyr171Asn	Rifampicin	RIF
+2276651	C	T	SNP	missense_variant	CDS	rpoB	ML1891c	3537	155G>A	155	G	A	Gly52Glu	Rifampicin	RIF
+2276655	G	A	SNP	missense_variant	CDS	rpoB	ML1891c	3537	151C>T	151	C	T	Pro51Ser	Rifampicin	RIF
+2725896	G	A	SNP	stop_gained	CDS	nth	ML2301c	762	589C>T	589	C	T	Arg197*	-	
+2725968	C	A	SNP	stop_gained	CDS	nth	ML2301c	762	517G>T	517	G	T	Glu173*	-	
+2725996	T	TA	indel	frameshift_variant	CDS	nth	ML2301c	762	488dupT	488	T	TA	Leu163fs	-	
+2726050	C	CCAGAATGACA	indel	frameshift_variant	CDS	nth	ML2301c	762	434_435insTGTCATTCTG	434-435	C	CCAGAATGACA	Gly146fs	-	
+2726052	G	GT	indel	frameshift_variant	CDS	nth	ML2301c	762	432_433insA	432-433	G	GT	Leu145fs	-	
+2726059	AT	A	indel	frameshift_variant	CDS	nth	ML2301c	762	"425delA,424dupA"	424-425	AT	A	Asn142fs	-	
+2726121	C	A	SNP	stop_gained	CDS	nth	ML2301c	762	364G>T	364	G	T	Glu122*	-	

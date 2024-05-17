@@ -1,0 +1,74 @@
+Genomic Position,REF (TN),ALT,Drug name
+5869,T,G,"Ofloxacin, Sparfloxacin"
+6736,C,T,"Ofloxacin, Sparfloxacin"
+7589,C,T,"Ofloxacin, Sparfloxacin"
+8237,C,T,"Ofloxacin, Sparfloxacin"
+8402,G,A,"Ofloxacin, Sparfloxacin"
+9508,G,A,"Ofloxacin, Sparfloxacin"
+9869,T,C,"Ofloxacin, Sparfloxacin"
+10660,G,C,"Ofloxacin, Sparfloxacin"
+86753,G,A,Protionamide
+86867,G,A,Protionamide
+87647,G,A,Protionamide
+87828,C,T,Protionamide
+88108,CA,C,Protionamide
+296853,C,"G,T",Dapsone
+296859,C,"G,T",Dapsone
+297128,A,C,Dapsone
+584605,AAATCTCAAACCGTCGCAGCCAT,AGGTTGCGGTGCAGCTTC,Clofazimine
+584957,G,GAT,Clofazimine
+585031,C,T,Clofazimine
+585169,A,C,Clofazimine
+585192,G,T,Clofazimine
+585315,C,T,Clofazimine
+585562,C,T,Clofazimine
+586168,C,T,Clofazimine
+586264,A,AG,Clofazimine
+586552,C,T,Clofazimine
+586761,A,G,Clofazimine
+587008,G,A,Clofazimine
+587039,A,AT,Clofazimine
+"5,87,494",CACCAATCACGC,CAGACCAGTGCGG,Clofazimine
+587505,C,G,Clofazimine
+587629,G,A,Clofazimine
+587730,CG,C,Clofazimine
+1454340,G,A,-
+1455299,C,T,-
+1457089,C,CA,-
+1459453,C,T,-
+1598388,CT,C,para-amino salicylic acid
+1598423,C,T,para-amino salicylic acid
+1598483,G,A,para-amino salicylic acid
+1598523,A,C,para-amino salicylic acid
+1598740,G,A,para-amino salicylic acid
+1598840,G,A,para-amino salicylic acid
+1598908,C,T,para-amino salicylic acid
+1598960,C,T,para-amino salicylic acid
+1599002,C,T,para-amino salicylic acid
+1599004,C,T,para-amino salicylic acid
+1599008,C,A,para-amino salicylic acid
+1599016,C,T,para-amino salicylic acid
+1599017,T,G,para-amino salicylic acid
+1599022,A,G,para-amino salicylic acid
+1599084,TTCG,T,para-amino salicylic acid
+1599160,G,GC,para-amino salicylic acid
+2274434,C,T,Rifampicin
+2274765,C,T,Rifampicin
+2275439,G,A,Rifampicin
+2275440,A,T,Rifampicin
+2275455,G,"A,C",Rifampicin
+2275463,C,T,Rifampicin
+2275508,G,A,Rifampicin
+2275512,C,T,Rifampicin
+2276208,G,A,Rifampicin
+2276294,G,T,Rifampicin
+2276294,G,T,Rifampicin
+2276651,C,T,Rifampicin
+2276655,G,A,Rifampicin
+2725896,G,A,-
+2725968,C,A,-
+2725996,T,TA,-
+2726050,C,CCAGAATGACA,-
+2726052,G,GT,-
+2726059,AT,A,-
+2726121,C,A,-

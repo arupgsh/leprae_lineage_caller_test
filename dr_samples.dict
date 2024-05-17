@@ -1,0 +1,76 @@
+{'SRR10570876.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)']}
+{'SRR10570903.vcf.gz': ['para-amino salicylic acid(1598908_C_T)']}
+{'SRR10570910.vcf.gz': ['Ofloxacin; Sparfloxacin(7589_C_T)']}
+{'SRR10570911.vcf.gz': ['Ofloxacin; Sparfloxacin(7589_C_T)']}
+{'SRR10570913.vcf.gz': ['Ofloxacin; Sparfloxacin(7589_C_T)']}
+{'SRR10570922.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)']}
+{'SRR10570927.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)', 'Rifampicin(2275439_G_A)', 'Rifampicin(2275440_A_T)']}
+{'SRR10570928.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)']}
+{'SRR10570929.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)']}
+{'SRR10570930.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)']}
+{'SRR10570931.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)']}
+{'SRR10894913.vcf.gz': ['Rifampicin(2275439_G_A)']}
+{'SRR10894914.vcf.gz': ['Rifampicin(2275439_G_A)']}
+{'SRR10894915.vcf.gz': ['Rifampicin(2275439_G_A)']}
+{'SRR10894916.vcf.gz': ['Rifampicin(2275439_G_A)']}
+{'SRR23061454.vcf.gz': ['Ofloxacin; Sparfloxacin(5869_T_G)', 'Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR23061639.vcf.gz': ['Rifampicin(2274434_C_T)']}
+{'SRR23061643.vcf.gz': ['Ofloxacin; Sparfloxacin(5869_T_G)', 'Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR23061650.vcf.gz': ['Ofloxacin; Sparfloxacin(5869_T_G)', 'Ofloxacin; Sparfloxacin(7589_C_T)', 'Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR24949994.vcf.gz': ['Dapsone(296859_C_G)', 'para-amino salicylic acid(1599022_A_G)']}
+{'SRR3672740.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR3672743.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR3672744.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR3672745.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR3672746.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR3672747.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR3672748.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR3330052.vcf.gz': ['Dapsone(296853_C_G)']}
+{'SRR3330053.vcf.gz': ['Dapsone(296853_C_G)']}
+{'SRR3330054.vcf.gz': ['Dapsone(296853_C_G)']}
+{'SRR12669284.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR12669301.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR12669307.vcf.gz': ['Dapsone(297128_A_C)', 'para-amino salicylic acid(1598908_C_T)']}
+{'SRR12669283.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR12669285.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR12669312.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR12669313.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR15512521.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR15512532.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR15512549.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR15512620.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR15512621.vcf.gz': ['para-amino salicylic acid(1599004_C_T)', 'Rifampicin(2274765_C_T)']}
+{'SRR15512703.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR15512704.vcf.gz': ['Rifampicin(2275463_C_T)']}
+{'SRR3823997.vcf.gz': ['para-amino salicylic acid(1599004_C_T)']}
+{'SRR3823998.vcf.gz': ['para-amino salicylic acid(1599004_C_T)']}
+{'SRR6241710.vcf.gz': ['Ofloxacin; Sparfloxacin(10660_G_C)']}
+{'SRR6241717.vcf.gz': ['Dapsone(296859_C_G)']}
+{'SRR6241726.vcf.gz': ['Dapsone(296859_C_T)', 'Dapsone(297128_A_C)']}
+{'SRR6241727.vcf.gz': ['Ofloxacin; Sparfloxacin(7589_C_T)', 'Dapsone(296859_C_T)', 'Clofazimine(587629_G_A)', 'para-amino salicylic acid(1598908_C_T)', 'Rifampicin(2275455_G_A)', 'Rifampicin(2275463_C_T)', 'Rifampicin(2275508_G_A)']}
+{'SRR6241728.vcf.gz': ['Dapsone(296859_C_G)', 'Clofazimine(587505_C_G)', 'Rifampicin(2275439_G_A)', 'Rifampicin(2275440_A_T)']}
+{'SRR6241729.vcf.gz': ['Dapsone(296859_C_G)', 'Clofazimine(587505_C_G)', 'Rifampicin(2275439_G_A)', 'Rifampicin(2275440_A_T)']}
+{'SRR6241733.vcf.gz': ['Dapsone(296859_C_G)', 'Clofazimine(585192_G_T)', 'para-amino salicylic acid(1598523_A_C)', 'Rifampicin(2275439_G_A)']}
+{'SRR6241734.vcf.gz': ['Dapsone(296859_C_G)', 'Clofazimine(586761_A_G)', 'para-amino salicylic acid(1599022_A_G)', 'Rifampicin(2275439_G_A)', 'Rifampicin(2276294_G_T)', 'Rifampicin(2276294_G_T)']}
+{'SRR6241735.vcf.gz': ['Clofazimine(584957_G_GAT)', 'para-amino salicylic acid(1598388_CT_C)']}
+{'SRR6241736.vcf.gz': ['Ofloxacin; Sparfloxacin(6736_C_T)', 'Ofloxacin; Sparfloxacin(9508_G_A)', 'Dapsone(296859_C_T)', 'Clofazimine(585562_C_T)', 'para-amino salicylic acid(1599002_C_T)']}
+{'SRR6241746.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)']}
+{'SRR6241755.vcf.gz': ['Dapsone(296859_C_T)', 'Clofazimine(586264_A_AG)', 'para-amino salicylic acid(1598908_C_T)']}
+{'SRR6241756.vcf.gz': ['Protionamide(86753_G_A)', 'Dapsone(296853_C_T)', 'Clofazimine(587008_G_A)', 'para-amino salicylic acid(1598960_C_T)', 'Rifampicin(2275439_G_A)', 'Rifampicin(2276655_G_A)']}
+{'SRR6241757.vcf.gz': ['Rifampicin(2275439_G_A)']}
+{'SRR6241758.vcf.gz': ['Protionamide(87828_C_T)', 'Dapsone(296859_C_T)', 'Clofazimine(585031_C_T)', 'para-amino salicylic acid(1598740_G_A)', 'Rifampicin(2274765_C_T)', 'Rifampicin(2275455_G_A)']}
+{'SRR6241767.vcf.gz': ['Ofloxacin; Sparfloxacin(8402_G_A)']}
+{'SRR6241770.vcf.gz': ['Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR6241776.vcf.gz': ['Dapsone(296859_C_G)', 'para-amino salicylic acid(1599017_T_G)']}
+{'SRR6241785.vcf.gz': ['Dapsone(296859_C_T)', 'Rifampicin(2275508_G_A)']}
+{'SRR6241790.vcf.gz': ['para-amino salicylic acid(1599160_G_GC)']}
+{'SRR6241796.vcf.gz': ['Rifampicin(2276208_G_A)']}
+{'SRR6241797.vcf.gz': ['Clofazimine(585169_A_C)', 'para-amino salicylic acid(1599008_C_A)']}
+{'SRR6241798.vcf.gz': ['Dapsone(296859_C_G)', 'Clofazimine(586761_A_G)', 'para-amino salicylic acid(1599017_T_G)']}
+{'SRR6241799.vcf.gz': ['Ofloxacin; Sparfloxacin(5869_T_G)', 'Ofloxacin; Sparfloxacin(9869_T_C)']}
+{'SRR6241800.vcf.gz': ['Dapsone(296859_C_T)', 'para-amino salicylic acid(1598483_G_A)']}
+{'SRR6241803.vcf.gz': ['Dapsone(296859_C_T)', 'Clofazimine(585315_C_T)', 'para-amino salicylic acid(1598423_C_T)', 'Rifampicin(2275439_G_A)', 'Rifampicin(2276651_C_T)']}
+{'SRR6241813.vcf.gz': ['Ofloxacin; Sparfloxacin(8237_C_T)', 'Dapsone(296859_C_G)', 'Clofazimine(586168_C_T)', 'para-amino salicylic acid(1599084_TTCG_T)']}
+{'SRR6241817.vcf.gz': ['Ofloxacin; Sparfloxacin(10660_G_C)']}
+{'SRR799329.vcf.gz': ['Ofloxacin; Sparfloxacin(8402_G_A)']}
+{'SRR1132821.vcf.gz': ['Dapsone(296853_C_T)', 'Clofazimine(587039_A_AT)']}
