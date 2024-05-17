@@ -5,7 +5,7 @@ import gzip, zlib
 
 
 st.write("""
-# Drug Resistance Checker
+# Drug Resistance Checker MPGL, ICMR-NIRTH
 """)
 uploaded_file = st.file_uploader("Choose a vcf file.", type=["vcf"])
 
