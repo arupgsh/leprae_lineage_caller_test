@@ -9,7 +9,9 @@ st.write("""
 """)
 uploaded_file = st.file_uploader("Choose a vcf file.", type=["vcf"])
 
-scheme = dr_scheme_parser('../dr_list.csv')
+#scheme = dr_scheme_parser('../dr_list.csv')
+scheme = dr_scheme_parser('https://raw.githubusercontent.com/arupgsh/leprae_lineage_caller_test/main/dr_list.csv')
+#https://raw.githubusercontent.com/arupgsh/leprae_lineage_caller_test/main/dr_list.csv
 
 #parse byte code data from vcf
 def bvcf_dict(fname,b_data)->dict:
